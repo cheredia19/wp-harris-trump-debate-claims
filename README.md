@@ -13,7 +13,16 @@ description:
   data={{
     url: 'topics.csv'
   }}
-  title="Analyzed candidate phrases by topic"
+  title="Analyzed claims by topic"
   xAxis="topic"
+  yAxis="times"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'assessments.csv'
+  }}
+  title="Assessments of the claims made by each candidate"
+  xAxis="assessment"
   yAxis="times"
 />
