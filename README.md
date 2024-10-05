@@ -45,11 +45,8 @@ description:
   yAxis="times"
 />
 
-<PlotlyBarChart
+<FlatUiTable
   data={{
     url: 'twp_assessments.csv'
   }}
-  title="The Washington Post's assessment of each candidate's claims"
-  xAxis="twp_assessment"
-  yAxis="times"
-/>
+ />
