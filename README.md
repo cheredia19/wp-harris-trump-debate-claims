@@ -5,7 +5,7 @@ description:
 
 <FlatUiTable
   data={{
-    url: 'claims.csv'
+    url: 'all_claims.csv'
   }}
  />
 
