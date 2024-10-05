@@ -1,5 +1,5 @@
 ---
-title: Welcome to your template dataset page!
+title: Creation of a database from an article in The Washington Post on verifications of 55 phrases said by Kamala Harris and Donald Trump in the last presidential debate
 description: 
 ---
 
