@@ -44,3 +44,12 @@ description:
   xAxis="assessment"
   yAxis="times"
 />
+
+<PlotlyBarChart
+  data={{
+    url: 'twp_assessments.csv'
+  }}
+  title="Assessments of The Washington Post about the claims made by each candidate"
+  xAxis="twp_assessment"
+  yAxis="times"
+/>
