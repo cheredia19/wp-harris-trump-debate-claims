@@ -26,3 +26,21 @@ description:
   xAxis="assessment"
   yAxis="times"
 />
+
+<PlotlyBarChart
+  data={{
+    url: 'trump_assessments.csv'
+  }}
+  title="Assessments of the 40 claims made by Donald Trump"
+  xAxis="assessment"
+  yAxis="times"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'harris_assessments.csv'
+  }}
+  title="Assessments of the 15 claims made by Kamala Harris"
+  xAxis="assessment"
+  yAxis="times"
+/>
