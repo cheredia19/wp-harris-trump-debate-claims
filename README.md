@@ -5,7 +5,7 @@ description:
 
 In the information age, where news spreads fast, people often use opinions, falsehoods, and out-of-context claims to create erroneous opinion matrices that usually overshadow facts. So, fact-checking has never been more critical.
 
-An article from The Washington Post scrutinized 55 sentences made by U.S. presidential candidates Kamala Harris and Donald Trump at the last (and only) presidential debate, held on September 10, highlighting the importance of holding the Democratic and Republican nominees accountable for their statements. 
+An **article from The Washington Post** (TWP) scrutinized 55 sentences made by U.S. presidential candidates Kamala Harris and Donald Trump at the last (and only) presidential debate, [held on September 10 and hosted by ABC](https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542), highlighting the importance of holding the Democratic and Republican nominees accountable for their statements. 
 
 Building on this, the Datahub team developed a comprehensive database to conduct a data-driven analysis of these claims, offering insights into the accuracy of their assertions. 
 
