@@ -50,3 +50,10 @@ description:
     url: 'twp_assessments.csv'
   }}
  />
+
+<FlatUiTable
+  data={{
+    url: 'twp_trump_assessments.csv'
+  }}
+ />
+ 
