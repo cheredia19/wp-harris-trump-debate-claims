@@ -3,6 +3,14 @@ title: Creation of a database from an article in The Washington Post on verifica
 description: 
 ---
 
+In the information age, where news spreads fast, people often use opinions, falsehoods, and out-of-context claims to create erroneous opinion matrices that usually overshadow facts. So, fact-checking has never been more critical.
+
+An article from The Washington Post scrutinized 55 sentences made by U.S. presidential candidates Kamala Harris and Donald Trump at the last (and only) presidential debate, held on September 10, highlighting the importance of holding the Democratic and Republican nominees accountable for their statements. 
+
+Building on this, the Datahub team developed a comprehensive database to conduct a data-driven analysis of these claims, offering insights into the accuracy of their assertions. 
+
+This analysis underscores the essential role of fact-checking in promoting transparency, allowing the public to make informed decisions in an era where [misinformation and disinformation](https://www.dictionary.com/e/misinformation-vs-disinformation-get-informed-on-the-difference/) can easily cloud judgment.
+
 <FlatUiTable
   data={{
     url: 'all_claims.csv'
