@@ -14,6 +14,6 @@ description:
     url: 'topics.csv'
   }}
   title="Analyzed candidate phrases by topic"
-  xAxis="topics"
+  xAxis="topic"
   yAxis="times"
 />
