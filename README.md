@@ -11,11 +11,17 @@ Building on this, the Datahub team developed a comprehensive database to conduct
 
 This analysis underscores the essential role of fact-checking in promoting transparency, allowing the public to make informed decisions in an era where [misinformation and disinformation](https://www.dictionary.com/e/misinformation-vs-disinformation-get-informed-on-the-difference/) can easily cloud judgment.
 
+The table below summarizes all the 55 claims (40 from Trump, 15 from Harris) made at the debate, the ten identified topics, and the verdicts from TWP (and our own). You can filter by the mentioned fields.
+
 <FlatUiTable
   data={{
     url: 'all_claims.csv'
   }}
  />
+
+Some insights:
+
+
 
 <PlotlyBarChart
   data={{
