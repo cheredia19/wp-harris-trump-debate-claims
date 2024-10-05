@@ -53,7 +53,13 @@ description:
 
 <FlatUiTable
   data={{
-    url: 'twp_trump_assessments.csv'
+    url: 'twp_dtrump_assessments.csv'
+  }}
+ />
+
+ <FlatUiTable
+  data={{
+    url: 'twp_kharris_assessments.csv'
   }}
  />
  
