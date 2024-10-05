@@ -49,7 +49,7 @@ description:
   data={{
     url: 'twp_assessments.csv'
   }}
-  title="Assessments of The Washington Post about the claims made by each candidate"
+  title="The Washington Post's assessment of each candidate's claims"
   xAxis="twp_assessment"
   yAxis="times"
 />
