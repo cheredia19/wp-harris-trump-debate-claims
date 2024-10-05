@@ -45,11 +45,15 @@ description:
   yAxis="times"
 />
 
+## The Washington Post's assessments of Harris and Trump's claims
+
 <FlatUiTable
   data={{
     url: 'twp_assessments.csv'
   }}
  />
+
+## The Washington Post's assessments of Donald Trump's claims
 
 <FlatUiTable
   data={{
@@ -57,9 +61,13 @@ description:
   }}
  />
 
+ ## The Washington Post's assessments of Kamala Harris' claims
+
  <FlatUiTable
   data={{
     url: 'twp_kharris_assessments.csv'
   }}
  />
+
+ Source: [The Washington Post](https://www.washingtonpost.com/politics/2024/09/11/fact-check-presidential-debate-harris-trump/)
  
