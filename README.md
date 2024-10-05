@@ -13,7 +13,7 @@ description:
   data={{
     url: 'claims.csv'
   }}
-  title="Frases analizadas de los candidatos por tópico"
+  title="Analyzed candidate phrases by topic"
   xAxis="topics"
   yAxis="times"
 />
