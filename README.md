@@ -11,7 +11,7 @@ description:
 
 <PlotlyBarChart
   data={{
-    url: 'claims.csv'
+    url: 'topics.csv'
   }}
   title="Analyzed candidate phrases by topic"
   xAxis="topics"
