@@ -8,3 +8,12 @@ description:
     url: 'claims.csv'
   }}
  />
+
+<PlotlyBarChart
+  data={{
+    url: 'claims.csv'
+  }}
+  title="Frases analizadas de los candidatos por tópico"
+  xAxis="topics"
+  yAxis="times"
+/>
