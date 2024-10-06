@@ -73,14 +73,6 @@ One of the 15 Kamala Harris' phrases was labeled true by our team (The former pr
   yAxis="times"
 />
 
-## The Washington Post's assessments of Harris and Trump's claims
-
-<FlatUiTable
-  data={{
-    url: 'twp_assessments.csv'
-  }}
- />
-
 ## The Washington Post's assessments of Donald Trump's claims
 
 <FlatUiTable
