@@ -89,7 +89,17 @@ The range of valuations used by TWP to fact-check the candidates' sentences was 
   }}
  />
 
-With respect to Trump, the verdicts were even more extensive.
+Concerning Trump, the verdicts were even more extensive. Apart from the 21 *false*, TWP used, among others, these qualifications:
+
+- A ridiculous slur.
+- Couldn't identify any (source).
+- In conflict.
+- Misleading.
+- Mostly false.
+
+Overall, thirty TWP assessments lean to false.
+
+On the other hand, the former President understated the loss of 10,000 manufacturing jobs from July to August but TWP (citing the Bureau of Labor Statistics data) found that the loss was 24,000.
 
 <FlatUiTable
   data={{
