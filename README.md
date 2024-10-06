@@ -1,6 +1,6 @@
 ---
-title: Creation of a database from an article in The Washington Post on verifications of 55 phrases said by Kamala Harris and Donald Trump in the last presidential debate
-description: 
+title: A data-driven focus on The Washington Post fact-checking of the presidential debate
+description: Creation of a database from an article published in The Washington Post on verifications of 55 statements made by Kamala Harris and Donald Trump in the debate organized by ABC
 ---
 
 In the information age, where news spreads fast, people often use opinions, falsehoods, and out-of-context claims to create erroneous opinion matrices that usually overshadow facts.
@@ -105,7 +105,13 @@ On the other hand, the former President understated the loss of 10,000 manufactu
   data={{
     url: 'twp_dtrump_assessments.csv'
   }}
- /> 
+ />
 
- Source: [The Washington Post](https://www.washingtonpost.com/politics/2024/09/11/fact-check-presidential-debate-harris-trump/)
+Does The Washington Post article show that Donald Trump is a liar? That is an issue out of DataHub's intended focus.
+
+This article was chosen strictly due to the high numbers of records (claims both candidates made at the presidential debate) that TWP gathered (which is ideal for data purposes), not because of a [particular political bias](https://www.allsides.com/news-source/fact-checker-washington-post-media-bias).
+
+
+
+Source: [The Washington Post](https://www.washingtonpost.com/politics/2024/09/11/fact-check-presidential-debate-harris-trump/)
  
