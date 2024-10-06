@@ -62,7 +62,7 @@ As said above, out of the 40 Donald Trump sentences assessed by TWP, **75% were 
   yAxis="times"
 />
 
-One of the 15 Kamala Harris' phrases was labeled true by our team (The former president has said that climate change is a hoax), and another was false (Trump took out a full-page ad in the New York Times calling for the execution of five young Black and Latino boys who were innocent, referring to *The Central Park Five*). **Over half of the claims need additional context**, and two looked exaggerated.
+One of the 15 Kamala Harris' phrases was labeled **true** by our team (The former president has said that climate change is a hoax), and **another was false** (Trump took out a full-page ad in the New York Times calling for the execution of five young Black and Latino boys who were innocent, referring to *The Central Park Five*). **Over half of the claims need additional context**, and two looked **exaggerated**.
 
 <PlotlyBarChart
   data={{
