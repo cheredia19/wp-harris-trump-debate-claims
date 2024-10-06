@@ -29,7 +29,7 @@ Some initial insights:
 - The economy, immigration, and abortion were the most analyzed Trump's topics. 
 - TWP focused on Harris' POV about the economy and external issues but did not take into account her immigration or abortion claims.
 
-Speaking on topics, the article reviewed 10 economy, eight external issues, and six immigration (all Trump's, all fake) phrases from both candidates. Other subjects, such as [Project 2025](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf) and [The Central Park Five](https://www.bbc.com/news/newsbeat-48609693) were considered by TWP.
+Speaking on topics, the article reviewed ten economy, eight external issues, and six immigration (all Trump's, all fake) phrases from both candidates. Other subjects, such as [Project 2025](https://static.project2025.org/2025_MandateForLeadership_FULL.pdf) and [The Central Park Five](https://www.bbc.com/news/newsbeat-48609693) were considered by TWP.
 
 <PlotlyBarChart
   data={{
@@ -39,6 +39,8 @@ Speaking on topics, the article reviewed 10 economy, eight external issues, and 
   xAxis="topic"
   yAxis="times"
 />
+
+We assessed 31 of the 55 claims as *false* (56.36%) and 14 as *needs context*. Two were, *exaggerated*, *partially true*, *mostly true*, or *true*. One was *underestimated*, another was *unverifiable*.
 
 <PlotlyBarChart
   data={{
