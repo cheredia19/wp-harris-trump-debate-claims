@@ -3,15 +3,17 @@ title: Creation of a database from an article in The Washington Post on verifica
 description: 
 ---
 
-In the information age, where news spreads fast, people often use opinions, falsehoods, and out-of-context claims to create erroneous opinion matrices that usually overshadow facts. So, fact-checking has never been more critical.
+In the information age, where news spreads fast, people often use opinions, falsehoods, and out-of-context claims to create erroneous opinion matrices that usually overshadow facts.
 
-An **article from The Washington Post** (TWP) scrutinized 55 sentences made by U.S. presidential candidates Kamala Harris and Donald Trump at the last (and only) presidential debate, [held on September 10 and hosted by ABC](https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542), highlighting the importance of holding the Democratic and Republican nominees accountable for their statements. 
+The issue worsens when politicians lie or manipulate the truth to their benefit. When this happens, fact-checking becomes critical.
+
+An **article from The Washington Post** (TWP) scrutinized 55 sentences made by U.S. presidential candidates Kamala Harris and Donald Trump at the last (and only) presidential debate, [held on September 10 and hosted by ABC](https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542).
 
 Building on this, the Datahub team developed a comprehensive database to conduct a data-driven analysis of these claims, offering insights into the accuracy of their assertions. 
 
-This analysis underscores the essential role of fact-checking in promoting transparency, allowing the public to make informed decisions in an era where [misinformation and disinformation](https://www.dictionary.com/e/misinformation-vs-disinformation-get-informed-on-the-difference/) can easily cloud judgment.
+TWP's article underscores the essential role of fact-checking in promoting transparency  and holding the Democratic and Republican nominees accountable for their statements, allowing the public to make informed decisions in an era where [misinformation and disinformation](https://www.dictionary.com/e/misinformation-vs-disinformation-get-informed-on-the-difference/) can easily cloud judgment.
 
-The table below summarizes all the 55 claims (40 from Trump, 15 from Harris) made at the debate, the ten identified topics, and the verdicts from TWP (and our own). You can filter by the mentioned fields.
+The table below summarizes all the 55 claims (40 from Trump, 15 from Harris) made at the debate, the ten identified topics, and the verdicts from TWP (and our own). The sentences in the table can be filtered by any of the fields.
 
 <FlatUiTable
   data={{
