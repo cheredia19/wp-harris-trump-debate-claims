@@ -83,21 +83,19 @@ The range of valuations used by TWP to fact-check the candidates' sentences was 
 - Not exactly what it says.
 - May be a high estimate.
 
+<FlatUiTable
+  data={{
+    url: 'twp_kharris_assessments.csv'
+  }}
+ />
 
+With respect to Trump, the verdicts were even more extensive.
 
 <FlatUiTable
   data={{
     url: 'twp_dtrump_assessments.csv'
   }}
- />
-
- 
-
- <FlatUiTable
-  data={{
-    url: 'twp_kharris_assessments.csv'
-  }}
- />
+ /> 
 
  Source: [The Washington Post](https://www.washingtonpost.com/politics/2024/09/11/fact-check-presidential-debate-harris-trump/)
  
