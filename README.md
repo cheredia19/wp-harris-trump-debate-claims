@@ -7,7 +7,7 @@ In the information age, where news spreads fast, people often use opinions, fals
 
 The issue worsens when politicians lie or manipulate the truth to their benefit. When this happens, fact-checking becomes critical.
 
-An **article from The Washington Post** (TWP) scrutinized 55 sentences made by U.S. presidential candidates Kamala Harris and Donald Trump at the last (and only) presidential debate, [held on September 10 and hosted by ABC](https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542).
+An **article from The Washington Post** (TWP) scrutinized 55 sentences made by U.S. presidential candidates **Kamala Harris** and **Donald Trump** at their only presidential debate, [held on September 10 and hosted by ABC](https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542).
 
 Building on this, the Datahub team developed a comprehensive database to conduct a data-driven analysis of these claims, offering insights into the accuracy of their assertions. 
 
