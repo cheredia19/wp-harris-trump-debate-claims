@@ -21,7 +21,13 @@ The table below summarizes all the 55 claims (40 from Trump, 15 from Harris) mad
   }}
  />
 
-Some insights:
+Some initial insights:
+
+- TWP assessed 21 former president's claims as false. Apart from False, the media outlet used verdicts such as *flat wrong*, *repeatedly debunked*, *absurd*, *poppyrock*, and *channeling right-wing social media sensations*.
+- None of Harris' claims were assessed false by TWP. Two were *true* and *correct*, one was *partly false*, and another was *out of date*.
+- Based on TWP analysis, we labeled 3/4 of Trump's phrases as False. Even though we assessed one of Harris' claims as False, 53.3% (8/15) of them need context, according to our scrutiny.
+- The economy, immigration, and abortion were the most analyzed Trump's topics. 
+- TWP focused on Harris' POV about the economy and external issues but did not take into account her immigration or abortion claims.
 
 
 
