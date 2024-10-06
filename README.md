@@ -51,7 +51,7 @@ We assessed 31 of the 55 claims as *false* (56.36%) and 14 (25.45%) as *needs co
   yAxis="times"
 />
 
-As said above, out of the 40 Donald Trump sentences assessed by TWP, **75% were false** (TWP used other adjectives that implied misrepresentation). Only one was true, according to the renowned media outlet. More precisely, TWP said Trump "got this right" when he claimed Harris has never supported defunding the police.
+As said above, out of the 40 Donald Trump sentences assessed by TWP, **75% were false** (TWP used other adjectives that implied misrepresentation). **Only one was true**, according to the renowned media outlet. More precisely, TWP said Trump "got this right" when he claimed Harris has never supported defunding the police.
 
 <PlotlyBarChart
   data={{
@@ -61,6 +61,8 @@ As said above, out of the 40 Donald Trump sentences assessed by TWP, **75% were 
   xAxis="assessment"
   yAxis="times"
 />
+
+One of the 15 Kamala Harris' phrases was labeled true by our team (The former president has said that climate change is a hoax), and another was false (Trump took out a full-page ad in the New York Times calling for the execution of five young Black and Latino boys who were innocent, referring to *The Central Park Five*). **Over half of the claims need additional context**, and two looked exaggerated.
 
 <PlotlyBarChart
   data={{
