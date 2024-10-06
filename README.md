@@ -40,7 +40,7 @@ Speaking on topics, the article reviewed ten economy, eight external issues, and
   yAxis="times"
 />
 
-We assessed 31 of the 55 claims as *false* (56.36%) and 14 as *needs context*. Two were, *exaggerated*, *partially true*, *mostly true*, or *true*. One was *underestimated*, another was *unverifiable*.
+We assessed 31 of the 55 claims as *false* (56.36%) and 14 (25.45%) as *needs context*. Two were, *exaggerated*, *partially true*, *mostly true*, or *true*. One was *underestimated*, another was *unverifiable*.
 
 <PlotlyBarChart
   data={{
@@ -50,6 +50,8 @@ We assessed 31 of the 55 claims as *false* (56.36%) and 14 as *needs context*. T
   xAxis="assessment"
   yAxis="times"
 />
+
+As said above, out of the 40 Donald Trump sentences assessed by TWP, **75% were false** (TWP used other adjectives that implied misrepresentation). Only one was true, according to the renowned media outlet. More precisely, TWP said Trump "got this right" when he claimed Harris has never supported defunding the police.
 
 <PlotlyBarChart
   data={{
